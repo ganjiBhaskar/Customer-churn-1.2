@@ -47,7 +47,7 @@ if st.button('Predict Churn'):
         'TotalCharges': [TotalCharges]
     })
     
-    with open(r"C:\Users\Ganji Bhaskar\Music\ml\mlp\hackathon\best_modelsvc.pkl", 'rb') as file:
+    with open(r"best_modelsvc.pkl", 'rb') as file:
         pipeline = pickle.load(file)
 
     prediction = pipeline.predict(input_data)
