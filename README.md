@@ -132,13 +132,7 @@ A Streamlit application was developed to predict customer churn for a telecommun
 
 ---
 
-### Installation
 
-To run the project locally, follow these steps:
-
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/sathish-vanga/customer-churn-prediction.git
 
 Customer churn
 deployment link:-
