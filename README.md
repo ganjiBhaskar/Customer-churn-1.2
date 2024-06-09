@@ -2,8 +2,6 @@
 
 # Customer Churn Prediction for a Telecommunications Company
 
-## Developed by: Sathish Vanga
-
 ### Table of Contents
 1. [Business Understanding](#business-understanding)
 2. [Data Understanding](#data-understanding)
